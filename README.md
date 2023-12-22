@@ -1,5 +1,4 @@
-## Hi there 👋 
-## Clinical psychology graduate students goes out to be AI engineer 
+## 👋 Clinical Psychology graduate students goes out to be AI engineer 
 
 <!--
 **goldcece/goldcece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +12,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently ... keep studying AI, Mental health, and Neuro science
 
-- 📫 How to reach me: ...
+- 📫 contact : 
   - e-mail: ddive.ai@gmail.com
+  - resume: https://www.notion.so/caffeinated-dsde/5010016856284e05b82cb69cb94388ee
+    
 
