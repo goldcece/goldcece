@@ -1,4 +1,4 @@
-## 👋 Clinical Psychology graduate students goes out to be AI engineer 
+## 👋 A Clinical Psychology graduate student goes out to be an AI engineer 
 
 <!--
 **goldcece/goldcece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
