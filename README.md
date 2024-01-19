@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 관심분야는 뇌 신경인지장애(치매)이며, 여러 의료&바이오 데이터를 연구하여 노년기 인간의 건강 생활을 증진하는 데 기여하고 싶습니다.
 
 - 🌱 I’m currently ... keep studying AI, Mental health, and Neuro science
-- ✨ I worked over 10 years as a [school counselor teacher] at all school level.
+- ✨ I worked over 10 years as a [school counselor teacher] at all school level. So I can communicate anyone wihtout any difficulties!
 
 - 📫 contact : 
   - e-mail: ddive.ai@gmail.com
